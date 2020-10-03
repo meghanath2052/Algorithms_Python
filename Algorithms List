@@ -1,45 +1,6 @@
 This is the list of algorithms I am working on.
 Note: This is the list from geeks for geeks.
-Algorithms
-Topics:
-•	Analysis of Algorithms
-•	Searching and Sorting
-•	Greedy Algorithms
-•	Dynamic Programming
-•	Pattern Searching
-•	Other String Algorithms
-•	Backtracking
-•	Divide and Conquer
-•	Geometric Algorithms
-•	Mathematical Algorithms
-•	Bit Algorithms
-•	Graph Algorithms
-•	Randomized Algorithms
-•	Branch and Bound
-•	Quizzes on Algorithms
-•	Misc
-Analysis of Algorithms:
-1.	Asymptotic Analysis
-2.	Worst, Average and Best Cases
-3.	Asymptotic Notations
-4.	Little o and little omega notations
-5.	Lower and Upper Bound Theory
-6.	Analysis of Loops
-7.	Solving Recurrences
-8.	Amortized Analysis
-9.	What does ‘Space Complexity’ mean?
-10.	Pseudo-polynomial Algorithms
-11.	NP-Completeness Introduction
-12.	Polynomial Time Approximation Scheme
-13.	A Time Complexity Question
-14.	Time Complexity of building a heap
-15.	Time Complexity where loop variable is incremented by 1, 2, 3, 4 ..
-16.	Time Complexity of Loop with Powers
-17.	Performance of loops (A caching question)
-Recent Articles on Analysis of Algorithms
-Quiz on Analysis of Algorithms
-Quiz on Recurrences
- 
+Algorithms: 
 Searching and Sorting:
 1.	Linear Search, Binary Search, Jump Search, Interpolation Search, Exponential Search, Ternary Search
 2.	Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Heap Sort, Quicksort, Radix Sort, Counting Sort, Bucket Sort, ShellSort, Comb Sort, Pigeonhole Sort, Cycle Sort
