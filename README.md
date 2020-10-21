@@ -19,4 +19,5 @@ Linear search is rarely used practically because other search algorithms such as
 ### Improve Linear Search Worst-Case Complexity
 
 if element Found at last  O(n) to O(1)
+
 if element Not found O(n) to O(n/2)
