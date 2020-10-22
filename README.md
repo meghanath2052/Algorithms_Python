@@ -40,9 +40,9 @@ The idea of binary search is to use the information that the array is sorted and
 
 -Else (x is smaller) recur for the left half.
 
-Time Complexity:
+### Time Complexity:
 
-The time complexity of Binary Search can be written as
+#### The time complexity of Binary Search can be written as
 
 T(n) = T(n/2) + c 
 
